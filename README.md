@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 ### [MovieLibraryAI](https://github.com/PranavBalaji122/Movie-Recomandation-App)
 Movie Library AI is an advanced web application that lets users explore and discover a vast collection of over 45,000 movies. Users can browse detailed movie information, including themes, genres, and reviews, and easily add their choices to a personalized library. Additionally, Movie Library AI provides custom movie recommendations based on the user's current library.
 
+### [The Race Card Project](https://github.com/PranavBalaji122/Race-Card-Project)
+Created a web page featuring essays by students of color on societal issues. Promotes diversity and empathy.
+
 ### [Portfolio Website](https://github.com/anyeelii/Atlanta_Food_Finder.git)
+● Designed and developed a personal portfolio website utilizing React Js and CSS, showcasing a collections of projects
+● Implemented responsive design techniques to ensure optimal viewing techniques across all devices and screen sizes
