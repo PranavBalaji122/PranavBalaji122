@@ -22,5 +22,4 @@ Movie Library AI is an advanced web application that lets users explore and disc
 Created a web page featuring essays by students of color on societal issues. Promotes diversity and empathy.
 
 ### [Portfolio Website](https://github.com/anyeelii/Atlanta_Food_Finder.git)
-● Designed and developed a personal portfolio website utilizing React Js and CSS, showcasing a collections of projects
-● Implemented responsive design techniques to ensure optimal viewing techniques across all devices and screen sizes
+Designed and developed a personal portfolio website utilizing React Js and CSS, showcasing a collections of projects
