@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Projects
 
 ### [NBA Sports Betting](https://github.com/PranavBalaji122/betting)
-NBA Sports Betting
+NBA Sports Betting...
 
 ### [AI Snake Agent](https://github.com/PranavBalaji122/AI-Snake-Agent)
 AI Snake Agent ...
