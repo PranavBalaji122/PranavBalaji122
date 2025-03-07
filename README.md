@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Projects
 
 ### [NBA Sports Betting](https://github.com/PranavBalaji122/betting)
-NBA Sports Betting...
+The NBA Sports betting repository is a Python module that leverages sports APIs and machine learning to predict player props for games and identify valuable betting opportunities. It integrates a PostgreSQL database for efficient data storage and management. Currently, the project utilizes a Random Forest Regression model to analyze historical data and optimize predictions, enhancing betting decision-making. Development is ongoing, with plans to implement an LSTM model to further improve forecasting accuracy.
 
 ### [AI Snake Agent](https://github.com/PranavBalaji122/AI-Snake-Agent)
 AI-Snake-Agent is an advanced reinforcement learning project that trains an AI to play the classic Snake game. Using a Deep Q-Learning algorithm, the agent continuously interacts with the game environment to develop optimal strategies. The project is built with Python, utilizing PyTorch and Pygame for training and simulation. Over time, the AI improves its gameplay, achieving higher scores through learned decision-making.
