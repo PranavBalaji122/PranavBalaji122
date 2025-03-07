@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 NBA Sports Betting...
 
 ### [AI Snake Agent](https://github.com/PranavBalaji122/AI-Snake-Agent)
-AI Snake Agent ...
+AI-Snake-Agent is an advanced reinforcement learning project that trains an AI to play the classic Snake game. Using a Deep Q-Learning algorithm, the agent continuously interacts with the game environment to develop optimal strategies. The project is built with Python, utilizing PyTorch and Pygame for training and simulation. Over time, the AI improves its gameplay, achieving higher scores through learned decision-making.
 
 ### [Movie-Recomandation-App](https://github.com/PranavBalaji122/Movie-Recomandation-App)
 Movie Library AI is an advanced web application that lets users explore and discover a vast collection of over 45,000 movies. Users can browse detailed movie information, including themes, genres, and reviews, and easily add their choices to a personalized library. Additionally, Movie Library AI provides custom movie recommendations based on the user's current library.
