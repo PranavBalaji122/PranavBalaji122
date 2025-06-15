@@ -26,6 +26,3 @@ Movie Library AI is an advanced web application that lets users explore and disc
 
 ### [Portfolio Website](https://github.com/anyeelii/Atlanta_Food_Finder.git)
 Designed and developed a personal portfolio website utilizing React Js and CSS, showcasing a collections of projects
-
-### [The Race Card Project](https://github.com/PranavBalaji122/Race-Card-Project)
-Created a web page featuring essays by students of color on societal issues. Promotes diversity and empathy.
