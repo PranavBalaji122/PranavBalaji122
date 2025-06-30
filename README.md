@@ -24,5 +24,5 @@ AI-Snake-Agent is an advanced reinforcement learning project that trains an AI t
 ### [Movie-Recomandation-App](https://github.com/PranavBalaji122/Movie-Recomandation-App)
 Movie Library AI is an advanced web application that lets users explore and discover a vast collection of over 45,000 movies. Users can browse detailed movie information, including themes, genres, and reviews, and easily add their choices to a personalized library. Additionally, Movie Library AI provides custom movie recommendations based on the user's current library.
 
-### [Portfolio Website](https://github.com/anyeelii/Atlanta_Food_Finder.git)
+### [Portfolio Website](https://portfolio-website-pranavbalaji122s-projects.vercel.app/)
 Designed and developed a personal portfolio website utilizing React Js and CSS, showcasing a collections of projects
